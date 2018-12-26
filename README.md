@@ -4,3 +4,4 @@
 * CSS modules
 * webpack dev server
 * static files resolver
+* react code-splitting
